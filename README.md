@@ -29,7 +29,7 @@ Aegis is a defensive security tool designed to simulate the core functionality o
 ---
 
 ### System Output (Demo)
-![Aegis Alert Demo](assets/demo.png)
+![Aegis Alert Demo](src/assets/demo.png)
 *Above: Aegis detecting injected brute-force attempts from the simulated attacker script in real-time.*
 
 ---
